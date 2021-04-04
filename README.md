@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilkay4237
-- 👀 I’m interested in pgogramming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
